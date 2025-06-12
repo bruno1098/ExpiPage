@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <head>
-        <link rel="icon" href="/https://github.com/bruno1098/ExpiWish" />
+        <link rel="icon" href="https://expi-five.vercel.app/logo.png" />
       </head>
       <body className={cn(
         poppins.variable,
