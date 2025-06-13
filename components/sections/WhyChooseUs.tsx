@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
-import { useSpring, animated, SpringValue } from 'react-spring';
+import { useSpring, animated, SpringValue } from '@react-spring/web';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
